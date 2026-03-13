@@ -1,4 +1,4 @@
-# Continuación proceso de selección WPP Media/Pruebas de conocimiento
+# Pruebas de conocimiento WPP Media
 
 ### Módulo de Analítica Web (GA4)
 - [Entregable Analítica Web](/Analitica-Web/Analítica-Web.pdf)
